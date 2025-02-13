@@ -11,7 +11,7 @@ In this project, we will:
 
 ## Features 🚀
 
-- **Custom CNN Architecture**: Build a Convolutional Neural Network with multiple convolutional layers.
+**Custom CNN Architecture**: Build a Convolutional Neural Network with multiple convolutional layers.
 - **Image Preprocessing**: Apply transformations to images (resizing, normalization) to improve model performance.
 - **Smile Detection**: The model classifies images into two categories: smiling and not smiling.
 - **Model Evaluation**: Evaluate the performance of the CNN with metrics like accuracy, precision, recall, and F1 score.
